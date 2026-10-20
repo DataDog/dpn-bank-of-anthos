@@ -2,7 +2,7 @@ attrs==23.2.0
 bcrypt==4.3.0
 bleach==6.3.0
 cachetools==5.5.2
-certifi==2024.12.14
+certifi==2026.10.19
 chardet==5.2.0
 click==8.3.1
 cryptography==46.0.3
